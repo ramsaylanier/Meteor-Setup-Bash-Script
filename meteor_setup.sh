@@ -1,11 +1,5 @@
 #!/bin/bash
-
-clear
-echo "Knowledge is Power"
-echo $HOME
-echo $PWD
-
-# TRACES="/Traces"
+echo "Meteor Setup"
 
 meteor remove autopublish
 meteor remove insecure
