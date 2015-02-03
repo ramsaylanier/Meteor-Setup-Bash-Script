@@ -4,6 +4,7 @@ echo "Meteor Setup"
 meteor remove autopublish
 meteor remove insecure
 meteor add iron:router
+meteor add appcache
 
 CLIENT=$PWD'/client'
 SERVER=$PWD'/server'
